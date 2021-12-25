@@ -1,5 +1,6 @@
-# Tetris-JavaScript
+# Tetris-JavaScript.
 
-The Tetris game, created using JavaScript, and The HTML5 canvas.
+
+Tetris made with js and html5
 
 
